@@ -1,0 +1,18 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/ceps/41720010"
+  },
+  "response": {
+        "status": 200,
+        "jsonBody": { 
+          "rua": "Rua teste",
+          "numero": "321",
+          "bairro": "Brotas",
+          "cidade": "Salvador",
+          "estado": "Bahia" },
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}

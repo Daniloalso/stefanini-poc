@@ -1,0 +1,13 @@
+{
+  "request": {
+    "method": "GET",
+    "url": "/ceps/41720000"
+  },
+  "response": {
+        "status": 404,
+        "jsonBody": { "status": "Error", "message": "Endpoint not found" },
+        "headers": {
+            "Content-Type": "application/json"
+        }
+    }
+}
